@@ -1,2 +1,2 @@
 # WordGuessGame
-A word guessing game build in JavaScript.
+A word guessing game build in JavaScript & HTML.
